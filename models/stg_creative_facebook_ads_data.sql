@@ -25,7 +25,7 @@ transform as (
     		0 as posts,
     		purchase as purchase,
     		complete_registration as registrations,
-    		revenue as revenue,
+    		0 as revenue,
     		shares as shares,
     		spend as spend,
     		purchase as total_conversions,
