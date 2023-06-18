@@ -6,7 +6,7 @@ transform as (
   	select	
     		ad_id as ad_id,
     		add_to_cart as add_to_cart,
-    		adset_id as adset_id,
+    		adgroup_id as adset_id,
     		campaign_id as campaign_id,
     		channel as channel,
     		clicks as clicks,
